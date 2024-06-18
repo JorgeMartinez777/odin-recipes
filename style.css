@@ -1,0 +1,13 @@
+    <div class="Red Sentence">THIS SENTENCE IS RED!!!</div>
+    <div class="Yellow Sentence">THIS SENTENCE IS YELLOW!!!</div>
+    <div class="Yellow and red background Sentence">THIS SENTENCE IS YELLOW WITH RED BACKGROUND!!!</div>
+    .Red Sentence {
+        color: red;
+    }
+    .Yellow Sentence {
+        color: red;
+    }
+    .Yellow and red background Sentence {
+        color: yellow;
+        background-color: red;
+    }
