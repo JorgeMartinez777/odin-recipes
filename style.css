@@ -2,10 +2,10 @@
     .red_sentence {
         color: red;
     }
-    Yellow Sentence {
-        color: red;
+    .yellow_sentence {
+        color: yellow;
     }
-    Yellow and red background Sentence {
+    .Yellow_and_red_background_Sentence {
         color: yellow;
         background-color: red;
     }
