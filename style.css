@@ -1,11 +1,15 @@
     
     .red_sentence {
         color: red;
+        font-size: 30px;
     }
     .yellow_sentence {
         color: yellow;
+        font: comic;
+        font-size: 40px;
     }
     .Yellow_and_red_background_Sentence {
         color: yellow;
         background-color: red;
+        font-size: 50px;
     }
