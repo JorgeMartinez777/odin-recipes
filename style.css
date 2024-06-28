@@ -1,26 +1,4 @@
-    
-    .red_sentence {
-        color: red;
-        font-size: 30px;
-    }
-    .yellow_sentence {
-        color: yellow;
-        font: comic;
-        font-size: 40px;
-    }
-    .Yellow_and_red_background_Sentence {
-        color: yellow;
-        background-color: red;
-        font-size: 50px;
-    }
-
-    div {
-        padding: 30px;
-        text-align: center;
-        margin-bottom: 10px;
-        color: #EEEEEE;
-      }
-
-    .BigBlackBox {
-        background-color: #1f313a;
-    }
+.OdinRecipes {
+    color: rgb(229, 255, 0);
+    background-color: black;
+}
